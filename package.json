@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "New doc for test tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1pancho/hexlet-js.git"
+  },
+  "author": "Timerlan Medov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1pancho/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/1pancho/hexlet-js#readme"
+}
